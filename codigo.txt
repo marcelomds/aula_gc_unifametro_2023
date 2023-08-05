@@ -1,3 +1,5 @@
 # Aula de Gerenciamento de Configuração
 
 # Atualizando o arquivo agora
+
+# Alterando esse arquivo usando a branch DEV
