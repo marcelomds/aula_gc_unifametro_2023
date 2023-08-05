@@ -3,3 +3,5 @@
 # Atualizando o arquivo agora
 
 # Alterando esse arquivo usando a branch DEV
+
+# Realizandi atividade HEAD:taskA10 aqui nesse momento
